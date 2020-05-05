@@ -1,0 +1,24 @@
+{
+  "name": "jira-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simtlix/jira-integration.git"
+  },
+  "keywords": [
+    "jira",
+    "github",
+    "integration"
+  ],
+  "author": "Heraldo Valenti <hvalenti@simtlix.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simtlix/jira-integration/issues"
+  },
+  "homepage": "https://github.com/simtlix/jira-integration#readme"
+}
