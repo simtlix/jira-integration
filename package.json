@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/simtlix/jira-integration/issues"
   },
-  "homepage": "https://github.com/simtlix/jira-integration#readme"
+  "homepage": "https://github.com/simtlix/jira-integration#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
 }
